@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Adnan Shakil, in my 2nd academic year at VIT Bhopal.
+I am Adnan Shakil, in my 4th academic year at VIT Bhopal.
 
 <!--
 **adnanshakil001/adnanshakil001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
